@@ -1,7 +1,8 @@
-menu-item-semver
+Menu Item Semver
 ================
 
-A list of semver rules for menu items in a restaurant.
+##### A list of semver rules for menu items in a restaurant.
+
 
 
 1. Menu items using Semantic Versioning MUST declare a list of ingredients. These items could be declared in the menu itself or in a separate appendix document available on request. Menu items MAY be assigned a type category to aid with deciding (breakfast, dinner, soup, tapas). Menu items MAY include OPTIONAL recipe details to aid in the pre-ordering process of a patron.
