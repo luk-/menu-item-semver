@@ -1,7 +1,7 @@
 Menu Item Semver
 ================
 
-##### A list of semver rules for menu items in a restaurant.
+##### A list of semver rules for menu items in a restaurant, based on significant parts of [semver.org](http://semver.org).
 
 
 
